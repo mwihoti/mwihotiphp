@@ -1,0 +1,18 @@
+body{
+    background-color: darkslategray;
+}
+.wrapper{
+    width:900px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4, p{
+    font-family: 'Roboto' sans-serif;
+    color: goldenrod;
+    line-height: 24px;
+}
+h1 { font-weight: 600;
+font-family: 32px;
+padding: 20px 0;
+text-align:center;
+}
